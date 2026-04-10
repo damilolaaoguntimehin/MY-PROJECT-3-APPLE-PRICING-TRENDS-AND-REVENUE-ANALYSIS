@@ -99,4 +99,5 @@ In conclusion, I learned  that - Market type plays a crucial role in revenue
 
 This project is more than just numbers, it's a reflection of how data can guide smarter decisions.
 
-<img width="1639" height="741" alt="TASK 28-APPLE pricing dashboard" src="https://github.com/user-attachments/assets/b6c9896a-f07c-45fa-a756-a86392c93b22" />
+<img width="1644" height="742" alt="My Project-3-Apple pricing trends and revenue analysis" src="https://github.com/user-attachments/assets/f6da31a5-b391-44aa-ae29-3d444e5a5d80" />
+
