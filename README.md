@@ -56,9 +56,10 @@ Using Pivot Tables and charts, I found deeper insights
  
  - Fuji apples led in quantity sold, showing strong consumer preference
  
-- Products priced between 2000–3000 recorded the highest sales volume, indicating this range as the most attractive price point for customers.
-- 
-- In terms of product quality, Standard-grade items generated the highest total revenue, outperforming both Premium and Economy categories. This suggests that customers are highly budget conscious rather than just premium positioning although they all contribute significantly to total revenue.
+ - Products priced between 2000–3000 recorded the highest sales volume, indicating this range as the most attractive price point for customers.
+ 
+ - In terms of product quality, Standard-grade items generated the highest total revenue, outperforming both Premium and Economy categories.
+   This suggests that customers are highly budget conscious rather than just premium positioning although they all contribute significantly to total revenue.
 
 Post-Analysis and Recommendations
 
@@ -69,7 +70,7 @@ Insights are only valuable when they drive action
 Increase marketing efforts and inventory procurement for October across top markets (China & Germany) and expand operations in these countries.
 
 - Rebalance variety mix:
-- 
+  
 Increase Gala and Pink Lady procurement for Supermarket channels ahead of October. They deliver better revenue per kg.
 
  - Leverage on best-selling products:
@@ -82,7 +83,7 @@ Since this band drives the most transactions, the business should prioritize sto
 
 Balance between premium and economy products to maximize revenue
 
--  Leverage on channel options:
+ - Leverage on channel options:
   
 Online Store is within 2.6% of Supermarket revenue. Shift marketing spend to online in June to August to flatten seasonality.
 
